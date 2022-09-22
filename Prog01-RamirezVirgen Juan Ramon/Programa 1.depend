@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1663105226 source:c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\programa 1\main.cpp
+	<iostream>
+	"list.h"
+	"node.h"
+	"student.h"
+
+1663105465 source:c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\programa 1\src\list.cpp
+	"list.h"
+	"node.h"
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cstring>
+
+1663105087 c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\programa 1\include\list.h
+	"node.h"
+	"student.h"
+	<fstream>
+	<iostream>
+
+1661827398 c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\programa 1\include\node.h
+	<iostream>
+	"student.h"
+
+1663035564 c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\programa 1\include\student.h
+	<iostream>
+
+1663035945 source:c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\programa 1\src\student.cpp
+	"student.h"
+
+1661827398 source:c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\programa 1\src\node.cpp
+	"node.h"
+	<iostream>
+
